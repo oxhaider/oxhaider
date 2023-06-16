@@ -1,7 +1,13 @@
 import os, sys
 import random
 
-
+while True:
+    p = input ("enter you password")
+    pasword = "oxaamir"
+    if p == pasword :
+        break
+    else:
+        ("wronge password")
 
 
 
